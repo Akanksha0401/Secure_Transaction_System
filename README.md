@@ -15,7 +15,7 @@ Installs all the dependencies and modules which will be used for running the scr
 
 Installs the dev dependencies which will be used to execute the files for hosting the app.
 
-### `npm start`
+### Step 3: `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
