@@ -1,0 +1,110 @@
+.red {
+    border: 1px solid red;
+}
+
+.green {
+    border: 1px solid green;
+}
+
+.login-left {
+    background-image: url("../images/login.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 0 0 5px 3px rgba(0, 0, 0, 0.05);
+    opacity: 0.9;
+    height: 550px;
+    border-radius: 3px;
+}
+.register-left {
+    background-image: url("../images/register.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 0 0 5px 3px rgba(0, 0, 0, 0.05);
+    opacity: 0.9;
+    height: 550px;
+    border-radius: 3px;
+}
+
+.paymoney-left {
+    background-image: url("../images/payMoney.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 0 0 5px 3px rgba(0, 0, 0, 0.05);
+    opacity: 0.9;
+    height: 550px;
+    border-radius: 3px;
+}
+
+.recordface-left {
+    background-image: url("../images/recordFace.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 0 0 5px 3px rgba(0, 0, 0, 0.05);
+    opacity: 0.9;
+    height: 550px;
+    border-radius: 3px;
+}
+
+
+.upi-left {
+    background-image: url("../images/upiPayment.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 0 0 5px 3px rgba(0, 0, 0, 0.05);
+    opacity: 0.9;
+    height: 550px;
+    border-radius: 3px;
+}
+
+.netbanking-left {
+    background-image: url("../images/netbankingPayment.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 0 0 5px 3px rgba(0, 0, 0, 0.05);
+    opacity: 0.9;
+    height: 550px;
+    border-radius: 3px;
+
+}
+.card-left {
+    background-image: url("../images/cardPayment.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 0 0 5px 3px rgba(0, 0, 0, 0.05);
+    opacity: 0.9;
+    height: 550px;
+    border-radius: 3px;
+}
+.homepage {
+    background-image: url("../images/homepage.png");
+    background-size: cover;
+    opacity: 0.9;
+    box-shadow: 0 0 5px 3px rgba(0, 0, 0, 0.05);
+    height: 500px;
+    width: 1200px;
+}
+
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0%;
+    width: 50%;
+}
+
+.right{
+    float: right;
+}
+
+.welcome{
+    text-align: center;
+    color: #65e1ac;
+}
